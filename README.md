@@ -31,16 +31,44 @@ For Software:
 - Axios, Bootcamp
   
 
-For Hardware:
+
 
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+### Installation
+To get started, follow the steps below:
 
-# Run
-[commands]
+Clone the repository:
+
+
+git clone https://github.com/elena-elsa101/hungry-helper-hopper  
+cd hungry-helper-hopper 
+
+Install dependencies:
+
+npm install  
+Start the development server:
+
+npm start  
+Access the application in your browser at:
+https://hungry-helper-hopper.lovable.app/
+
+### Commands
+
+Here are the key commands to run and test the application:
+Run the development environment:
+
+npm start  
+Run tests:
+
+npm test   
+Build for production:
+
+npm run build  
+Lint and fix code:
+
+npm run lint  
 
 ### Project Documentation
 For Software:
@@ -56,33 +84,16 @@ For Software:
 *Add caption explaining what this shows*
 
 
-
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aleena ]: [Idea generation and ai tools research]
+- [Name 2]: [Debug generated code and analyse flaws]
+- [Name 3]: [Scalability and scope for improvement]
 
 ---
 Made with ❤️ at TinkerHub
