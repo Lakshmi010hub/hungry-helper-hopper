@@ -1,69 +1,88 @@
-# Welcome to your Lovable project
+# Food Donate Buddy! 🎯
 
-## Project info
+## Basic Details
+### Team Name: Glitches
 
-**URL**: https://lovable.dev/projects/43302ae3-72a5-4498-b090-982a6cd3f961
+### Team Members
+- Member 1: Aleena Terasa John - College of Engineering Trivandrum
+- Member 2: Elena Elsa Cherian - College of Engineering Trivandrum
+- Member 3: Lakshmi Dinesh - College of Engineering Trivandrum
 
-## How can I edit this code?
+### Hosted Project Link
+https://areuhungry.lovable.app/
 
-There are several ways of editing your application.
+### Project Description
+Reduce food waste and help the communities in need. The lack of an efficient platform to connect food surplus providers with organizations or individuals in need results in both wasted resources and missed opportunities to address a critical social issue.
 
-**Use Lovable**
+ 
+### The Problem statement
+"Reducing Food Wastage Through Efficient Redistribution".
+In many urban areas, large quantities of food from restaurants, catering events, and other functions go to waste daily despite the presence of individuals and communities facing hunger and food insecurity. 
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/43302ae3-72a5-4498-b090-982a6cd3f961) and start prompting.
+### The Solution
+Our goal is to create a user-friendly, sustainable website, enabling restaurants and catering services to donate excess food in real-time while ensuring safe handling and distribution to those in need, ultimately reducing food wastage and contributing to hunger relief.
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+## Technical Details
+### Technologies/Components Used
+For Software:
+ Javascript, HTML, CSS
+- React.js
+- Axios, Bootcamp
+  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+For Hardware:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+### Implementation
+For Software:
+# Installation
+[commands]
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Run
+[commands]
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Project Documentation
+For Software:
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-**Edit a file directly in GitHub**
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+# Build Photos
+![Team](Add photo of your team here)
 
-This project is built with .
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+![Components](Add photo of your components here)
+*List out all components shown*
 
-## How can I deploy this project?
+![Build](Add photos of build process here)
+*Explain the build steps*
 
-Simply open [Lovable](https://lovable.dev/projects/43302ae3-72a5-4498-b090-982a6cd3f961) and click on Share -> Publish.
+![Final](Add photo of final product here)
+*Explain the final build*
 
-## I want to use a custom domain - is that possible?
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
+
+---
+Made with ❤️ at TinkerHub
