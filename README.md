@@ -77,6 +77,9 @@ For Software:
 Uploading Screenshot 2025-01-26 091300.png
 (Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*![Screenshot 2025-01-26 091300 - Copy](https://github.com/user-attachments/assets/c41c1a4f-f052-4f49-84d1-19a4b85e1653)
+![Screenshot 2025-01-26 091457](https://github.com/user-attachments/assets/7cfda487-5ce8-4f29-ab45-5706e5990227)
+
+![Screenshot 2025-01-26 091534](https://github.com/user-attachments/assets/2f02c06f-7000-42da-b8af-17c1983b1b76)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -89,7 +92,12 @@ Uploading Screenshot 2025-01-26 091300.png
 ### Project Demo
 # Video
 
-*Explain what the video demonstrates*
+
+
+
+https://github.com/user-attachments/assets/36eeb57b-dcbd-4f52-a6cb-bae9e0a7049e
+
+n what the video demonstrates*
 
 
 ## Team Contributions
