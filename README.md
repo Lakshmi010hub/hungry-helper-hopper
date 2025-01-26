@@ -76,7 +76,8 @@ For Software:
 # Screenshots (Add at least 3)
 Uploading Screenshot 2025-01-26 091300.png
 (Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows*![Screenshot 2025-01-26 091300 - Copy](https://github.com/user-attachments/assets/c41c1a4f-f052-4f49-84d1-19a4b85e1653)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
