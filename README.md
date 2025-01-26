@@ -74,7 +74,8 @@ npm run lint
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+Uploading Screenshot 2025-01-26 091300.png
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -86,7 +87,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 
