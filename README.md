@@ -74,19 +74,13 @@ npm run lint
 For Software:
 
 # Screenshots (Add at least 3)
-Uploading Screenshot 2025-01-26 091300.png
-(Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*![Screenshot 2025-01-26 091300 - Copy](https://github.com/user-attachments/assets/c41c1a4f-f052-4f49-84d1-19a4b85e1653)
-![Screenshot 2025-01-26 091457](https://github.com/user-attachments/assets/7cfda487-5ce8-4f29-ab45-5706e5990227)
+(https://github.com/user-attachments/assets/c41c1a4f-f052-4f49-84d1-19a4b85e1653)
 
-![Screenshot 2025-01-26 091534](https://github.com/user-attachments/assets/2f02c06f-7000-42da-b8af-17c1983b1b76)
+(https://github.com/user-attachments/assets/7cfda487-5ce8-4f29-ab45-5706e5990227)
+
+(https://github.com/user-attachments/assets/2f02c06f-7000-42da-b8af-17c1983b1b76)
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 
 ### Project Demo
@@ -101,9 +95,9 @@ n what the video demonstrates*
 
 
 ## Team Contributions
-- [Aleena ]: [Idea generation and ai tools research]
-- [Name 2]: [Debug generated code and analyse flaws]
-- [Name 3]: [Scalability and scope for improvement]
+- Aleena : Idea generation and ai tools research
+- Elena: Debug generated code and analyse flaws
+- Lakshmi: Scalability and scope for improvement
 
 ---
 Made with ❤️ at TinkerHub
